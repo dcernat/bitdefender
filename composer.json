@@ -1,4 +1,6 @@
 {
-    "require": {
+    "name": "bitdefender/bitdefender",
+    "license": "MIT",
+        "require": {
      }
 }
